@@ -1,4 +1,3 @@
-# networking-fundamentals
 # Networking Fundamentals
 
 ## About This Repository
